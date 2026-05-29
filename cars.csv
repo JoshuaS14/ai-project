@@ -1,0 +1,11 @@
+make,model,price,mpg,horsepower,seats,luxury,reliability,lifestyle,image
+Toyota,Camry,30000,32,203,5,4,9,family,https://images.unsplash.com/photo-1559416523-140ddc3d238c
+Honda,Civic,27000,36,180,5,3,9,commuter,https://images.unsplash.com/photo-1492144534655-ae79c964c9d7
+BMW,M340i,62000,26,382,5,9,6,sport,https://images.unsplash.com/photo-1503376780353-7e6692767b70
+Mazda,MX-5 Miata,32000,30,181,2,5,8,fun,https://images.unsplash.com/photo-1544636331-e26879cd4d9b
+Subaru,Outback,35000,29,182,5,5,8,outdoor,https://images.unsplash.com/photo-1511919884226-fd3cad34687c
+Tesla,Model 3,42000,120,283,5,8,7,tech,https://images.unsplash.com/photo-1560958089-b8a1929cea89
+Audi,A6,68000,29,335,5,9,7,luxury,https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6
+Ford,F-150,45000,22,400,5,5,8,outdoor,https://images.unsplash.com/photo-1551830820-330a71b99659
+Hyundai,Elantra,25000,37,147,5,3,8,commuter,https://images.unsplash.com/photo-1494905998402-395d579af36f
+Porsche,911,120000,24,473,4,10,7,sport,https://images.unsplash.com/photo-1502877338535-766e1452684a
